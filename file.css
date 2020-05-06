@@ -1,0 +1,69 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.for-position {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-image {
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px
+}
+
+.uol {
+    height: 300px;
+}
+
+.for-input {
+    height: 50px;
+}
+
+input {
+    height: 100%;
+    width: 80%;
+}
+
+.my-list input {
+    background-color: none;
+    background: none;
+}
+
+.line-thru{
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.color-1 {
+    background-color: aqua;
+}
+
+.color-2 {
+    background-color: olivedrab;
+}
+
+.color-3 {
+    background-color: orange;
+}
